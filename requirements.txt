@@ -1,0 +1,30 @@
+# GUI
+PyQt6>=6.6.0
+
+# AI/ML
+ollama>=0.1.6
+
+# Vector Stores
+chromadb>=0.3.23
+pymilvus>=2.3.0
+
+# File Processing
+pypdf>=3.17.4
+Pillow>=10.2.0
+watchdog>=3.0.0
+
+# Compression
+zstandard>=0.21.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Caching
+cachetools>=5.3.0
+
+# REST API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Testing
+pytest>=7.4.0

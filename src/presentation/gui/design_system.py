@@ -1,0 +1,25 @@
+
+class DesignSystem:
+
+    ACCENT_PRIMARY = "#2196F3"
+    ACCENT_HOVER = "#1976D2"
+    ACCENT_PRESSED = "#1565C0"
+    ACCENT_LIGHT = "#E3F2FD"
+
+    TEXT_PRIMARY = "#333333"
+    TEXT_SECONDARY = "#666666"
+    TEXT_DISABLED = "#9E9E9E"
+
+    BG_PRIMARY = "#FFFFFF"
+    BG_SECONDARY = "#F5F5F7"
+    BG_HOVER = "#F0F0F0"
+
+    BORDER_LIGHT = "#E0E0E0"
+
+    ERROR = "#F44336"
+
+    FONT_SIZE_XL = "16px"
+    FONT_SIZE_LG = "14px"
+    FONT_SIZE_MD = "13px"
+    FONT_SIZE_SM = "12px"
+    FONT_SIZE_XS = "11px"
